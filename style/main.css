@@ -1,0 +1,50 @@
+body {
+  background-color: rgb(231, 231, 231);
+}
+
+table {
+  padding-top: 40px;
+}
+table thead,
+table tfoot {
+  background-color: rgb(143, 156, 163) !important;
+  color: rgb(250, 249, 248);
+}
+
+.county-title {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  color: rgba(247, 25, 99, 0.61);
+  font-weight: 900;
+}
+
+.dataTables_empty {
+  background-color: white !important;
+}
+
+.btn-group {
+  text-align: center;
+}
+.btn-group a {
+  text-decoration: none;
+}
+.btn-group span {
+  margin-left: 25px;
+  border: 1px solid gray;
+  color: gray;
+  font-weight: 700;
+  font-size: 24px;
+  border-radius: 5px;
+  padding: 7px;
+}
+
+.pagination {
+  background-color: rgb(66, 63, 63);
+}
+.pagination li a {
+  color: rgb(218, 214, 214);
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 500;
+}/*# sourceMappingURL=main.css.map */
